@@ -21,7 +21,7 @@ Before running the application, ensure you have the following installed on your 
 
 
 ```bash
-   git clone <repository-url>
+   git clone https://github.com/anandkoladiya/contact-management.git
 ```
 
 2.  Install dependencies:
