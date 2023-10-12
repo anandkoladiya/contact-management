@@ -3,6 +3,11 @@
 
 The Contact Management is a web API built with Node.js and TypeScript, using the NestJS framework and PostgreSQL as the data store. It provides a set of operations for managing contancts.
 
+### Noted Points
+1. Orm: Used Prisma Orm
+2. Validation : Class-validator | class-transformer
+3. Error : Build custom error handaling
+
 
 
 
